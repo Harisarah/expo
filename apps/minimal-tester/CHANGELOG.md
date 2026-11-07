@@ -1,5 +1,16 @@
 # minimal-tester
 
+## 1.0.18
+
+### Patch Changes
+
+- Updated dependencies. ([#53135](https://github.com/expo/expo/pull/53135), [#52960](https://github.com/expo/expo/pull/52960), [#52934](https://github.com/expo/expo/pull/52934))
+  - expo@58.0.24
+  - expo-updates@58.0.22
+  - expo-splash-screen@58.0.14
+  - expo-brownfield@58.0.20
+  - expo-dev-client@58.0.18
+
 ## 1.0.17
 
 ### Patch Changes
